@@ -5,7 +5,9 @@
 
 ## Demo
 [demo](https://kangming1412.github.io/pages/) <br>
-Click 'Home' to go to home page.
+Click 'Home' to go to home page. <br>
+Enter the username to seach. <br>
+
 
 
 ## Usage
