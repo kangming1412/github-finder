@@ -4,7 +4,7 @@
   This app uses the Context API along with the useContext and useReducer hooks for state management.
 
 ## Demo
-[demo](https://kangming1412.github.io/pages/) <br>
+[demo](https://kangming1412.github.io/Github-finder/) <br>
 Click 'Home' to go to home page. <br>
 Enter the username to seach. <br>
 
