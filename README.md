@@ -1,7 +1,8 @@
 # Github Finder
 
   React app to search Github profiles. <br>
-  This app uses the Context API along with the useContext and useReducer hooks for state management.
+  This app uses the Context API along with the useContext and useReducer hooks for state management.<br>
+  Build with class component firstly, then refactor to function component, and finally to hooks&context.
 
 ## Demo
 [demo](https://kangming1412.github.io/Github-finder/) <br>
